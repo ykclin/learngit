@@ -1,0 +1,12 @@
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+aaa
+Creating a new branch is quick.
+Creating a new branch is quick AND simple.
+git --no-ff merge
+add one line
+add one line too
+dev branch add befor issue branch
+add flag
